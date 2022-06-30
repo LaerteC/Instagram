@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+@import './assets/fonts/fonts.scss';  
+
+:root{
+    --fontRegular: 'Biennale Regular';
+    --fontBold: 'Biennale Bold';
+    --fontLight:'Biennale Light';   
+
+    --corPrimaria2:  #5E49FF;
+    --branco : #FFFFFF;
+    --cinza2: #7C7786;
+    --cinza3: #4D4C4D;
+    --cinza4: #333333;
+    --corPrimaria3: #25CBD3;
+    --corPrimaria4: #F0F5FF;
+    --cinza: #F4F4F4;
+    --cinza1 : #DADADA; 
+    
+}
